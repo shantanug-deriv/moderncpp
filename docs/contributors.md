@@ -4,6 +4,13 @@
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/shantanug-deriv">
+            <img src="https://avatars.githubusercontent.com/u/125633368?v=4" width="100;" alt="shantanug-deriv"/>
+            <br />
+            <sub><b>shantanug-deriv</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/alandefreitas">
             <img src="https://avatars.githubusercontent.com/u/5369819?v=4" width="100;" alt="alandefreitas"/>
             <br />
